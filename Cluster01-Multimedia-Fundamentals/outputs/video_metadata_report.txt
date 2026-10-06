@@ -1,0 +1,19 @@
+============================================================
+              VIDEO METADATA ANALYSER
+============================================================
+
+---------- FILE INFORMATION ----------
+
+File Name       : sample.mp4
+File Format     : MP4
+File Size       : 1570024 bytes (1533.23 KB / 1.50 MB)
+
+---------- VIDEO INFORMATION ----------
+
+Resolution      : 480 x 270
+Width           : 480
+Height          : 270
+Frame Rate      : 30.00 FPS
+Total Frames    : 901
+Duration        : 30.033 seconds
+Codec           : h264

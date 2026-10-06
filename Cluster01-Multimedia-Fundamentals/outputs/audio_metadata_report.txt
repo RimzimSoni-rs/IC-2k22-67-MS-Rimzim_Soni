@@ -1,0 +1,21 @@
+============================================================
+              AUDIO METADATA ANALYSER
+============================================================
+
+---------- FILE INFORMATION ----------
+
+File Name       : sample.wav
+File Format     : WAV
+File Size       : 1048558 bytes (1023.98 KB / 1.00 MB)
+
+---------- AUDIO INFORMATION ----------
+
+Channels        : 2
+Channel Type    : Stereo
+Sampling Rate   : 44100 Hz
+Bit Depth       : 16 bits
+Sample Width    : 2 bytes
+Total Frames    : 262094
+Duration        : 5.943 seconds
+Compression     : NONE
+Compression Name: not compressed

@@ -1,0 +1,31 @@
+============================================================
+           IMAGE METADATA ANALYSER REPORT
+============================================================
+
+FILE INFORMATION
+------------------------------------------------------------
+File Name       : sample.jpg
+File Format     : JPEG
+File Size       : 335547 bytes
+File Size       : 327.68 KB
+File Size       : 0.32 MB
+
+IMAGE INFORMATION
+------------------------------------------------------------
+Image Mode      : RGB
+Resolution      : 1280 x 853
+Width           : 1280
+Height          : 853
+Total Pixels    : 1091840
+
+COLOUR DEPTH
+------------------------------------------------------------
+Colour Depth    : 24 bits per pixel
+
+METADATA
+------------------------------------------------------------
+EXIF Metadata   : Not available
+
+============================================================
+              ANALYSIS COMPLETED
+============================================================
